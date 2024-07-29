@@ -1,4 +1,4 @@
-## Hi there 👋
+##**Eae nego👋**
 
 <!--
 **Lucass0801/lucass0801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
